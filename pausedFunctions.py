@@ -1,3 +1,10 @@
+from sklearn.decomposition import TruncatedSVD
+
+"""
+DISREGARD THIS FILE
+CONTAINS ONLY OUTDATED/OMITTED CODE 
+"""
+
 def preprocessQuestionsAndLabels(filename):
    
     data = fetchData(filename)
